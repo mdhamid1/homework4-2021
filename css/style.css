@@ -88,11 +88,14 @@ td {
   text-align: center;
   background: #7e0820;
   text-transform: uppercase;
+  vertical-align: middle;
 }
 /*Req 6c*/
 .rowhead{
   border-color: #000000;
   border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
+  padding: 10px;
 }
 
 /*Req 6d*/
