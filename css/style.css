@@ -31,9 +31,10 @@ body{
   background-size: cover ;
   background-position: center;
   font-family: "Andika", "sans-serif";
-  background-image: url('/Users/daniyalhamid/Documents/MSI_Program/Winter_2021/SI_539/hw4-2021-main/images/pigeon-background.JPEG');
   background-color: #DDDDDD;
-
+  background-image: url('/Users/daniyalhamid/Documents/MSI_Program/Winter_2021/SI_539/hw4-2021-main/images/pigeon-background.JPEG');
+  background-repeat: no-repeat
+  
   /*Req 1*/
 }
 
